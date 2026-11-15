@@ -5,6 +5,7 @@ A personal portfolio website built with **Node.js**, **ExpressJS**, and the **EJ
 ## Live Deployment & Repository
 * **Live Portfolio Website:** https://david-abati-portfolio.onrender.com
 * **GitHub Repository:** https://github.com/davidabati1960/Assignment-2
+* **Google Drive link to the video:** https://drive.google.com/file/d/1ZP4GII04KOh8TF4vD9ZsTj3ofPHOzAmO/view?usp=drive_link
 
 ## Project Structure
 * **`routes/index.js`**: Defines Express routes for the Home, About Me, Projects, and Contact Me pages.
